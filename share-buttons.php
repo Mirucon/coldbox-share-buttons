@@ -4,6 +4,7 @@ Plugin Name: Share Buttons Add-On for the Coldbox Theme
 Plugin URI: https://coldbox.miruc.co/addons/share-buttons/
 Description: Adds Share Buttons to the Coldbox Theme.
 Author: Mirucon
+License: GNU General Public License v3.0
 Version: 1.0.0
 Author URI: https://miruc.co/
 */
