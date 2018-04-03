@@ -1,6 +1,6 @@
 # Coldbox Share Buttons Add-on
 
-** THIS IS NOW PART OF [COLDBOX ADDON](https://wordpress.org/plugins/coldbox-addon/) PLUGIN'S FEATURES. Coldbox Share Buttons Add-on is no longer supported and updated. Please use the [COLDBOX ADDON](https://wordpress.org/plugins/coldbox-addon/) instead.**
+** THIS IS NOW PART OF THE [COLDBOX ADDON](https://wordpress.org/plugins/coldbox-addon/) PLUGIN'S FEATURES. COLDBOX SHARE BUTTONS ADD-ON IS NO LONGER SUPPORTED AND UPDATED. PLEASE USE THE [COLDBOX ADDON](https://wordpress.org/plugins/coldbox-addon/) INSTEAD.**
 
 Adding the share buttons on your website.  
 It's meant for using with the Coldbox theme.
